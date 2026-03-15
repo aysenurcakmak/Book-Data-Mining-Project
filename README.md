@@ -40,4 +40,4 @@ Projeyi yerel bilgisayarınızda çalıştırmak için:
 3. Scripti çalıştırın: python odev_hazirla.py
 
 ---
-Hazırlayan: Ayşenur Çakmak - 231220046
+Hazırlayan: Ayşenur Çakmak 
